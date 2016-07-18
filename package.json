@@ -1,0 +1,25 @@
+{
+  "name": "omnyx",
+  "version": "1.0.0",
+  "description": "one tool to run them all",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saip106/omnyx.git"
+  },
+  "keywords": [
+    "omni",
+    "omnyx",
+    "one",
+    "tool"
+  ],
+  "author": "Sai Gudigundla",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/saip106/omnyx/issues"
+  },
+  "homepage": "https://github.com/saip106/omnyx#readme"
+}
